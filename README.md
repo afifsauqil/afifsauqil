@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Afif Sauqil Arifin](https://www.instagram.com/afifsauqil), an ordinary vocational student with interest in programming and passionate about working with computers and learning new things.
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through any project.
+I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
 - 💼 Any freelance work? Do reach, [email](mailto:afifsauqil18@gmail.com)
 - 💬 Discuss about any project and let's build together;
