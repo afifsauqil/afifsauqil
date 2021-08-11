@@ -39,10 +39,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Afif | Instagram" width="42px" src="https://raw.githubusercontent.com/anandadwipra/anandadwipra/2144a29d114bc4b54876a9af4d8e88ebf8ab5d85/assets/1.svg" />
 </a>
 <a href="https://twitter.com/Afifsau">
-  <img align="left" alt="Afif | Twitter" width="42px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="25px" />
+  <img align="left" alt="Afif | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 <a href="https://t.me/afifsauqil">
-  <img align="left" alt="Afif | Twitter" width="42px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="25px" />
+  <img align="left" alt="Afif | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />
 </a>
 <a href="https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/">
   <img align="left" alt="Afif LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
