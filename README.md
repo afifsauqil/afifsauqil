@@ -38,6 +38,12 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/afifsauqil">
   <img align="left" alt="Afif | Instagram" width="42px" src="https://raw.githubusercontent.com/anandadwipra/anandadwipra/2144a29d114bc4b54876a9af4d8e88ebf8ab5d85/assets/1.svg" />
 </a>
+<a href="https://twitter.com/Afifsau">
+  <img align="left" alt="Afif | Twitter" width="42px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+</a>
+<a href="https://t.me/afifsauqil">
+  <img align="left" alt="Afif | Twitter" width="42px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />
+</a>
 <a href="https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/">
   <img align="left" alt="Afif LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -56,7 +62,7 @@ I learned a lot from with community, lecturer, friend and competition. Do you ha
 - 💼 Any freelance work? Do reach, [email](mailto:afifsauqil18@gmail.com)
 - 💬 Discuss about any project and let's build together;
 
-**Languages and Tools:**  
+## Languages and Tools:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -65,7 +71,7 @@ I learned a lot from with community, lecturer, friend and competition. Do you ha
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **My Github Most Used Language:**
+📊 ## My Github Most Used Language:
 <!--START_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sau0301D&theme=vue">
 
@@ -84,6 +90,6 @@ I learned a lot from with community, lecturer, friend and competition. Do you ha
 <!-- TODO-IST:END -->
 
 
-📈 **My GitHub Stats**
+📈 ## My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sau0301D&show_icons=true&theme=gotham" alt="afifsauqil" />
