@@ -57,6 +57,7 @@ I learned a lot from with community, lecturer, friend and competition. Do you ha
 
 **note: basic learn and some have simple project**
 
+<br>
 
 📊  **My Github Most Used Language:**
 <!--START_SECTION:waka-->
@@ -76,6 +77,7 @@ I learned a lot from with community, lecturer, friend and competition. Do you ha
 ⏳  Longest streak is 10 days -->
 <!-- TODO-IST:END -->
 
+<br>
 
 📈 **My GitHub Stats**
 
