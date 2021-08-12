@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Afif | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 <a href="https://t.me/afifsauqil">
-  <img align="left" alt="Afif | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />
+  <img align="left" alt="Afif | Telegram" width="22px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />
 </a>
 <a href="https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/">
   <img align="left" alt="Afif LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
