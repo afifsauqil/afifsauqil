@@ -46,10 +46,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/">
   <img align="left" alt="Afif LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Sau0301D.Sau0301D)
 
 <br />
