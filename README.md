@@ -62,8 +62,8 @@ I learned a lot from with community, lecturer, friend and competition. Do you ha
 - 💬 Discuss about any project and let's build together;
 - 📲 Contact me on my WhatsApp [089616477879](https://api.whatsapp.com/send?phone=+6289616477879)
 
-## Languages and Tools:  
-
+# Languages and Tools:  
+**what i know**
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
