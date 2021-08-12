@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 You can reach me at my socmed in below
 <a href="https://instagram.com/afifsauqil">
-  <img align="left" alt="Afif | Instagram" width="42px" src="https://raw.githubusercontent.com/anandadwipra/anandadwipra/2144a29d114bc4b54876a9af4d8e88ebf8ab5d85/assets/1.svg" />
+  <img align="left" alt="Afif | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram.svg" />
 </a>
 <a href="https://twitter.com/Afifsau">
   <img align="left" alt="Afif | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
