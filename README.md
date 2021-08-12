@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 <!-- my profile -->
 ### Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-You can reach me at my socmed in below
+**You can reach me at my social media account in below**
+<br>
 <a href="https://instagram.com/afifsauqil">
   <img align="left" alt="Afif | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
 </a>
