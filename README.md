@@ -13,22 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- example -->
-
-<!--
-**Sau0301D/Sau0301D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- my profile -->
 ### Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -49,7 +33,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Afif LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Sau0301D.Sau0301D)
+![profile-views](https://visitor-badge.glitch.me/badge?page_id=afifsauqil.visitor-badge)
 
 <br />
 
@@ -71,7 +55,7 @@ I learned a lot from with community, lecturer, friend and competition. Do you ha
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**note: what i know**
+**note: basic learn and some have simple project**
 
 
 📊  **My Github Most Used Language:**
