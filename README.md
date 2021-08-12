@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Afif Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://instagram.com/afifsauqil">
-  <img align="left" alt="Afif | Instagram" width="42px" src="https://raw.githubusercontent.com/anandadwipra/anandadwipra/2144a29d114bc4b54876a9af4d8e88ebf8ab5d85/assets/1.svg" />
+  <img align="left" alt="Afif | Instagram" width="52px" src="https://raw.githubusercontent.com/anandadwipra/anandadwipra/2144a29d114bc4b54876a9af4d8e88ebf8ab5d85/assets/1.svg" />
 </a>
 <a href="https://twitter.com/Afifsau">
   <img align="left" alt="Afif | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
