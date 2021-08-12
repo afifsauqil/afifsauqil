@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 <!-- my profile -->
 ### Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 You can reach me at my socmed in below
-<a href="https://discord.com/channels/@afif#6532">
-  <img align="left" alt="Afif Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://instagram.com/afifsauqil">
   <img align="left" alt="Afif | Instagram" width="42px" src="https://raw.githubusercontent.com/anandadwipra/anandadwipra/2144a29d114bc4b54876a9af4d8e88ebf8ab5d85/assets/1.svg" />
 </a>
