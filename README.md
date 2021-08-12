@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- my profile -->
-### Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
 **You can reach me at my social media account in below**
@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things.
-
-I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
+Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
 - 🌱 I'm currently learning web programming (Front-End & Back-End) , basic data science, basic machine learning;
 - 😅 I'm natively speak Indonesia and also can speak english and japanese of my foreign language
