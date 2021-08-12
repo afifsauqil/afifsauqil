@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Afif LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![profile-views](https://visitor-badge.glitch.me/badge?page_id=afifsauqil.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=afifsauqil.visitor-badge)
 
 <br />
 
