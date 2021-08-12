@@ -73,7 +73,7 @@ I learned a lot from with community, lecturer, friend and competition. Do you ha
 
 📊  **My Github Most Used Language:**
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sau0301D&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifsauqil&theme=vue">
 
 <!--END_SECTION:waka-->
 
@@ -92,4 +92,4 @@ I learned a lot from with community, lecturer, friend and competition. Do you ha
 
 📈 **My GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sau0301D&show_icons=true&theme=gotham" alt="afifsauqil" />
+<img src="https://github-readme-stats.vercel.app/api?username=afifsauqil&show_icons=true&theme=gotham" alt="afifsauqil" />
