@@ -41,9 +41,9 @@ Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in prog
 
 I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
-- 🌱 I'm currently learning web programming;
-- 😅 I'm natively speak Indonesia and also can speak english and japanese of my foreign language;
-- 💬 Discuss about any project and let's build together;
+- 🌱 I'm currently learning web programming (Front-End & Back-End) , basic data science, basic machine learning;
+- 😅 I'm natively speak Indonesia and also can speak english and japanese of my foreign language
+- 💬 Discuss about any project and let's build together
 - 📲 Contact me on my WhatsApp [089616477879](https://api.whatsapp.com/send?phone=+6289616477879)
 
 ## Languages and Tools:  
