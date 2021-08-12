@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 <!-- my profile -->
 ### Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+**You can reach my at my social media in below**
 <a href="https://discord.com/channels/@afif#6532">
   <img align="left" alt="Afif Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -55,12 +56,14 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Afif Sauqil Arifin](https://www.instagram.com/afifsauqil), an ordinary vocational student with interest in programming and passionate about working with computers and learning new things.
+Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things.
 
 I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
-- 💼 Any freelance work? Do reach, [email](mailto:afifsauqil18@gmail.com)
+- 🌱 I'm currently learning web programming;
+- 😅 I'm natively speak Indonesia and also can speak english and japanese of my foreign language;
 - 💬 Discuss about any project and let's build together;
+- 📲 Contact me on my WhatsApp [089616477879](https://api.whatsapp.com/send?phone=089616477879)
 
 ## Languages and Tools:  
 
