@@ -33,8 +33,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Afif LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=afifsauqil.visitor-badge)
-
 <br />
 
 Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
