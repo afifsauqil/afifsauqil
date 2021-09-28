@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 
 Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
-- 🌱 I'm currently learning web programming (Front-End & Back-End) , basic data science and machine learning;
+- 🌱 I'm currently learning web programming (Front-End & Back-End), basic data science and machine learning;
+- 🌱 And I'm currently learning networking fundamental, basic container orchestration, CI/CD, and debugging capabilities 
 - 💬 Discuss about any project and let's build together
 - 📲 Contact me on my WhatsApp [089616477879](https://api.whatsapp.com/send?phone=+6289616477879)
 
