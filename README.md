@@ -20,18 +20,11 @@ Here are some ideas to get you started:
 
 **You can reach me at my social media account in below**
 
-<a href="https://instagram.com/afifsauqil">
-  <img align="left" alt="Afif | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
-</a>
-<a href="https://twitter.com/Afifsau">
-  <img align="left" alt="Afif | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
-</a>
-<a href="https://t.me/afifsauqil">
-  <img align="left" alt="Afif | Telegram" width="22px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />
-</a>
-<a href="https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/">
-  <img align="left" alt="Afif LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+![visitor](https://shields-io-visitor-counter.herokuapp.com/badge?page=afifsauqil.afifsauqil&label=Visitor&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=2807ba&style=for-the-badge)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afifsauqil18@gmail.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afifsauqil)
+[![](https://img.shields.io/badge/Facebook-4287f5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/afif.sauqil.18)
+[![](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/)
 
 <br />
 <br />
@@ -40,13 +33,13 @@ Here are some ideas to get you started:
 Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
 - 🌱 I'm currently learning web programming, basic data science and machine learning;
-- 🌱 And I'm currently learning networking fundamental, cloud computing (clustering data, failover, disaster recovery) , basic container orchestration, CI/CD, and debugging capabilities 
+- 🌱 And I'm currently learning networking fundamental, cloud computing , basic container orchestration, CI/CD, and automation 
 - 💬 Discuss about any project and let's build together
 - 📲 Contact me on my WhatsApp [089616477879](https://api.whatsapp.com/send?phone=+6289616477879)
 
 ## Languages, Scripting, and Tools:  
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -56,7 +49,19 @@ Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in prog
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> -->
+<img src="https://img.shields.io/badge/Kubernetes-2807ba.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="">    
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-ed2e11?style=for-the-badge&logo=HTML&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-2496ED?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/JS-ffff00?style=for-the-badge&logo=JS&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-4287f5?style=for-the-badge&logo=PHP&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-D14836?style=for-the-badge&logo=SQL&logoColor=white">
+
 
 
 **note: basic learn and some have simple project**
