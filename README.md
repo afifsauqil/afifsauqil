@@ -92,4 +92,6 @@ Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in prog
 
 📈 **My GitHub Stats**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=afifsauqil&show_icons=true)
+<div align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=afifsauqil&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true"/>
+</div>
