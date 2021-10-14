@@ -71,7 +71,7 @@ Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in prog
 📊  **My Github Most Used Language:**
 <!--START_SECTION:waka-->
 <div align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifsauqil&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifsauqil&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=2496ED&icon_color=2496ED&title_color=2496ED&hide_border=true)"/>
 </div>
   
 <!--END_SECTION:waka-->
@@ -93,5 +93,5 @@ Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in prog
 📈 **My GitHub Stats**
 
 <div align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=afifsauqil&layout=compact&langs_count=7&hide=html&bg_color=2496ED&text_color=2496ED&icon_color=2496ED&title_color=2496ED&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=afifsauqil&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=2496ED&icon_color=2496ED&title_color=2496ED&hide_border=true"/>
 </div>
