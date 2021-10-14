@@ -37,7 +37,7 @@ Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in prog
 - 💬 Discuss about any project and let's build together
 - 📲 Contact me on my WhatsApp [089616477879](https://api.whatsapp.com/send?phone=+6289616477879)
 
-## Languages, Scripting, and Tools:  
+## Languages, Technology, and Tools:  
 
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -70,8 +70,10 @@ Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in prog
 
 📊  **My Github Most Used Language:**
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifsauqil&theme=vue">
-
+<div align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifsauqil&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)"/>
+</div>
+  
 <!--END_SECTION:waka-->
 
 <!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
