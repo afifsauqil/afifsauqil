@@ -59,9 +59,9 @@ Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in prog
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-ed2e11?style=for-the-badge&logo=HTML&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-2496ED?style=for-the-badge&logo=CSS&logoColor=white">
-<img src="https://img.shields.io/badge/JS-ffff00?style=for-the-badge&logo=JS&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-ffff00?style=for-the-badge&logo=Javascript&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-4287f5?style=for-the-badge&logo=PHP&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-D14836?style=for-the-badge&logo=SQL&logoColor=white">
+<img src="https://img.shields.io/badge/MySQl-D14836?style=for-the-badge&logo=MySQL&logoColor=white">
 
 
 
