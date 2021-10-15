@@ -54,7 +54,7 @@ const afif = {
     language: {
       native: ["Indonesian"],
       foreign: ["English", "Japanese"]
-    }
+    },
     technologies: {
         backEnd: {
             php: ["CI4", "laravel"]
