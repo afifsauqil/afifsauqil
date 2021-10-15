@@ -49,16 +49,21 @@ const afif = {
     pronouns: "He" | "Him",
     code: ["PHP", "Python","HTML", "CSS","MySQL"],
     askMeAbout: ["CloudEng", "Tech", "Anime"],
+    language: {
+      native: ["Indonesian"],
+      foreign: ["English", "Japanese"]
+    }
     technologies: {
         backEnd: {
-            php: ["CI4"]
+            php: ["CI4", "laravel"]
         },
         frontEnd: {
             css: {"bootstrap", "materialize"}
         },
         devOps: ["AWS", "Docker"],
-        databases: ["DynamoDB", "MySql", "PostgreSQL"],
+        databases: ["DynamoDB", "MySql"],
         misc: ["opencv", "numpy", "tensorflow"]
+        linuxOsFav: ["DebianFamily"]
     },
     currentFocus: "learning-path-DevOps"
 };
