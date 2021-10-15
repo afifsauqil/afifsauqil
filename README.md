@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br />
 ----
-<br>8
+<br>
       *A little more about me...* <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 
 ```javascript
