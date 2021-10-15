@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
 - 🌱 I'm currently learning web programming, basic data science and machine learning;
-- 🌱 And I'm currently learning networking fundamental, cloud computing , basic container orchestration, CI/CD, and automation 
+- 🌱 And I'm currently learning networking fundamental, cloud computing , modernizing apps with containers, CI/CD, and automation 
 - 💬 Discuss about any project and let's build together
 - 📲 Contact me on my WhatsApp [089616477879](https://api.whatsapp.com/send?phone=+6289616477879)
 
-## Languages, Technologies, and Tools:  
+## Languages, Scripting, and Tools:  
 
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
