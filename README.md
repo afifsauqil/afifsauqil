@@ -28,15 +28,32 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/)
 
 <br />
-<br />
+    ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const vedant = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python","HTML", "CSS","MySQL"],
+    askMeAbout: ["CloudEngineer", "Tech", "Gaming"],
+    technologies: {
+        backEnd: {
+            php: ["CI4"],
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["DynamoDB", "MySql", "PostgreSQL"],
+        misc: ["open-cv", "numpy", "SuiteApp","discord.py"]
+    },
+    currentFocus: "learning path DevOps"
+};
+```
 <br />
 
-Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
+Hi, I'm Afif, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
 - 🌱 I'm currently learning web programming, basic data science and machine learning;
 - 🌱 And I'm currently learning networking fundamental, cloud computing , modernizing apps with containers, CI/CD, and automation 
 - 💬 Discuss about any project and let's build together
-- 📲 Contact me on my WhatsApp [089616477879](https://api.whatsapp.com/send?phone=+6289616477879)
+- 📲 Contact me on my WhatsApp [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+6289616477879)
 
 ## Languages, Scripting, and Tools:  
 
@@ -57,11 +74,13 @@ Hi, I'm Afif Sauqil Arifin, an ordinary vocational student with interest in prog
 <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="">    
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-ed2e11?style=for-the-badge&logo=HyperTextMarkupLanguage&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-2496ED?style=for-the-badge&logo=CSS&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-ffff00?style=for-the-badge&logo=Javascript&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-4287f5?style=for-the-badge&logo=PHP&logoColor=white">
-<img src="https://img.shields.io/badge/MySQl-D14836?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-2496ED?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 
 
