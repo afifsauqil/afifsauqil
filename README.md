@@ -33,7 +33,7 @@ Here are some ideas to get you started:
       A little more about me...
       
 ```javascript
-const vedant = {
+const afif = {
     pronouns: "He" | "Him",
     code: ["PHP", "Python","HTML", "CSS","MySQL"],
     askMeAbout: ["CloudEng", "Tech", "Anime"],
@@ -41,7 +41,7 @@ const vedant = {
         backEnd: {
             php: ["CI4"],
         },
-        devOps: ["AWS", "Docker🐳"],
+        devOps: ["AWS", "Docker"],
         databases: ["DynamoDB", "MySql", "PostgreSQL"],
         misc: ["open-cv", "numpy", "SuiteApp","discord.py"]
     },
