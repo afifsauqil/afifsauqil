@@ -29,29 +29,6 @@ Here are some ideas to get you started:
 
 <br />
 
-<br>
-      A little more about me...
-      
-```javascript
-const afif = {
-    pronouns: "He" | "Him",
-    code: ["PHP", "Python","HTML", "CSS","MySQL"],
-    askMeAbout: ["CloudEng", "Tech", "Anime"],
-    technologies: {
-        backEnd: {
-            php: ["CI4"],
-        },
-        devOps: ["AWS", "Docker"],
-        databases: ["DynamoDB", "MySql", "PostgreSQL"],
-        misc: ["open-cv", "numpy", "SuiteApp","discord.py"]
-    },
-    currentFocus: "learning path DevOps"
-};
-```
-<br>
-
-----
-<br />
 
 Hi, I'm Afif, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
@@ -61,6 +38,35 @@ Hi, I'm Afif, an ordinary vocational student with interest in programming and pa
 - 📲 Contact me on my WhatsApp 
    <br>
    [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+6289616477879)
+   
+ <br />
+ 
+ <br>
+      A little more about me...
+      
+```javascript
+const afif = {
+    pronouns: "He" | "Him",
+    code: ["PHP", "Python","HTML", "CSS","MySQL"],
+    askMeAbout: ["CloudEng", "Tech", "Anime"],
+    technologies: {
+        backEnd: {
+            php: ["CI4"]
+        },
+        frontEnd: {
+            css: {"bootstrap", "materialize"}
+        },
+        devOps: ["AWS", "Docker"],
+        databases: ["DynamoDB", "MySql", "PostgreSQL"],
+        misc: ["opencv", "numpy", "tensorflow"]
+    },
+    currentFocus: "learning-path-DevOps"
+};
+```
+<br>
+
+----
+<br />
 
 ## Languages, Scripting, and Tools:  
 
