@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Telegram-00979D?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/afifsauqil)
 [![](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/)
 
-<br/ >
+<br>
 ----
 
 <br>
