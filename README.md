@@ -51,8 +51,9 @@ const afif = {
     society: ["IT", "Scout"],
     code: ["PHP", "Python","HTML", "CSS","MySQL"],
     askMeAbout: ["CloudEng", "Tech", "Anime"],
-    language: {
-      native: ["Indonesian"],
+    languages: {
+      native: ["Javanese"],
+      primary: ["Indonesian"],
       foreign: ["English", "Japanese"]
     },
     technologies: {
