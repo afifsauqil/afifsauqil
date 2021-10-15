@@ -58,7 +58,8 @@ Hi, I'm Afif, an ordinary vocational student with interest in programming and pa
 - 🌱 I'm currently learning web programming, basic data science and machine learning;
 - 🌱 And I'm currently learning networking fundamental, cloud computing , modernizing apps with containers, CI/CD, and automation 
 - 💬 Discuss about any project and let's build together
-- 📲 Contact me on my WhatsApp [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+6289616477879)
+- 📲 Contact me on my WhatsApp 
+   [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+6289616477879)
 
 ## Languages, Scripting, and Tools:  
 
