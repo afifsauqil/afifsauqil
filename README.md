@@ -47,6 +47,8 @@ Hi, I'm Afif, an ordinary vocational student with interest in programming and pa
 ```javascript
 const afif = {
     pronouns: "He" | "Him",
+    education: ["vocational-school"],
+    society: ["IT", "Scout"],
     code: ["PHP", "Python","HTML", "CSS","MySQL"],
     askMeAbout: ["CloudEng", "Tech", "Anime"],
     language: {
@@ -62,7 +64,7 @@ const afif = {
         },
         devOps: ["AWS", "Docker"],
         databases: ["DynamoDB", "MySql"],
-        misc: ["opencv", "numpy", "tensorflow"]
+        misc: ["opencv", "numpy", "tensorflow"],
         linuxOsFav: ["DebianFamily"]
     },
     currentFocus: "learning-path-DevOps"
