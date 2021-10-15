@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ----
 <br>
       A little more about me...
-      <br>
+      
 ```javascript
 const vedant = {
     pronouns: "He" | "Him",
