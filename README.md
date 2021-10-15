@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 const vedant = {
     pronouns: "He" | "Him",
     code: ["PHP", "Python","HTML", "CSS","MySQL"],
-    askMeAbout: ["CloudEngineer", "Tech", "Gaming"],
+    askMeAbout: ["CloudEng", "Tech", "Anime"],
     technologies: {
         backEnd: {
             php: ["CI4"],
