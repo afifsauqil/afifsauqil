@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/)
 
 <br />
+----
+<br>
     ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -46,6 +48,9 @@ const vedant = {
     currentFocus: "learning path DevOps"
 };
 ```
+<br>
+
+----
 <br />
 
 Hi, I'm Afif, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
