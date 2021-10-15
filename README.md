@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 <br />
 ----
 <br>
-    ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+    ###  A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 
 ```javascript
 const vedant = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python","HTML", "CSS","MySQL"],
+    code: ["PHP", "Python","HTML", "CSS","MySQL"],
     askMeAbout: ["CloudEngineer", "Tech", "Gaming"],
     technologies: {
         backEnd: {
