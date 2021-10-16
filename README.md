@@ -105,9 +105,8 @@ const afif = {
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-<br>
-
 **note: basic learn and some have simple project**
+<br>
 
 <br>
 
