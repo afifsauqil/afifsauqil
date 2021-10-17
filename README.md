@@ -48,7 +48,7 @@ Hi, I'm Afif, an ordinary vocational student with interest in programming and pa
 const afif = {
     pronouns: "He" | "Him",
     education: ["vocational-school"],
-    society: ["IT", "Scout"],
+    society: ["Scout"],
     code: ["PHP", "Python","HTML", "CSS","MySQL"],
     askMeAbout: ["CloudEng", "Tech", "Anime"],
     languages: {
@@ -58,13 +58,13 @@ const afif = {
     },
     technologies: {
         backEnd: {
-            php: ["CI4", "laravel"]
+            php: ["CodeIgniter", "laravel"]
         },
         frontEnd: {
             css: {"bootstrap", "materialize"}
         },
         devOps: ["AWS", "Docker"],
-        databases: ["DynamoDB", "MySql"],
+        databases: ["DynamoDB", "MySQL"],
         misc: ["opencv", "numpy", "tensorflow"],
         linuxOsFav: ["DebianFamily"]
     },
