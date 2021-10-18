@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 Hi, I'm Afif, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
 - 🌱 I'm currently learning web programming, basic data science and machine learning;
-- 🌱 And I'm currently learning networking fundamental, cloud computing , modernizing apps with containers, CI/CD, and automation 
+- 🌱 And I'm currently learning networking fundamental, cloud computing , basic modernizing apps with containers, CI/CD, and automation 
 - 💬 Discuss about any project and let's build together
 - 📲 Contact me on my WhatsApp 
    <br>
