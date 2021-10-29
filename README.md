@@ -47,10 +47,10 @@ Hi, I'm Afif, an ordinary vocational student with interest in programming and pa
 ```javascript
 const afif = {
     pronouns: "He" | "Him",
-    education: ["vocational-school"],
+    education: ["vocational school"],
     society: ["Scout"],
     code: ["PHP", "Python","HTML", "CSS","MySQL"],
-    askMeAbout: ["CloudEng", "Tech", "Anime"],
+    askMeAbout: ["Cloud", "Networking", "Tech", "Anime"],
     languages: {
       native: ["Javanese"],
       primary: ["Indonesian"],
@@ -58,10 +58,10 @@ const afif = {
     },
     technologies: {
         backEnd: {
-            php: ["CodeIgniter", "laravel"]
+            php: ["CodeIgniter", "Laravel"]
         },
         frontEnd: {
-            css: {"bootstrap", "materialize"}
+            css: {"Bootstrap", "Materialize"}
         },
         devOps: ["AWS", "Docker"],
         databases: ["DynamoDB", "MySQL"],
