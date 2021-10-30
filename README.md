@@ -44,7 +44,7 @@ Hi, I'm Afif, an ordinary vocational student with interest in programming and pa
  
  ----
  <br>
-      ### A little more about me...
+       <div align="center">*A little more about me...*</div>
       
 ```javascript
 const afif = {
