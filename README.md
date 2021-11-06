@@ -94,7 +94,7 @@ const afif = {
 <div align='center'>
 <!-- <img src="https://img.shields.io/badge/Kubernetes-2807ba.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt=""> -->
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/Github-4EAA25.svg?&style=for-the-badge&logo=github&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Github-121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="">    
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white">
