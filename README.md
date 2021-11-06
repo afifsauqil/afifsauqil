@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 
 
-Hi, I'm Afif, an ordinary vocational student with interest in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
+Hi, I'm Afif, an ordinary vocational student with interested in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
   
 - 🌱 I'm currently learning web programming, basic data science and machine learning;
 - 🌱 And I'm currently learning networking fundamental, cloud computing , basic modernizing apps with containers, CI/CD, and automation 
@@ -94,7 +94,7 @@ const afif = {
 <div align='center'>
 <!-- <img src="https://img.shields.io/badge/Kubernetes-2807ba.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt=""> -->
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=github&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="">    
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white">
