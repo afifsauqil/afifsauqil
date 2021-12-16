@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Telegram-00979D?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/afifsauqil)
 [![](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/)
 
-<br />
+<!-- <br />
 
 
 Hi, I'm Afif, an ordinary vocational student with interested in programming and passionate about working with computers and learning new things. I learned a lot from with community, lecturer, friend and competition. Do you have a project or idea? Let's collaboration and knowledge sharing happen through any project.
@@ -39,7 +39,7 @@ Hi, I'm Afif, an ordinary vocational student with interested in programming and 
    <br>
    [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+6289616477879)
    
- <br />
+ <br /> -->
  
  
  ----
@@ -51,8 +51,8 @@ const afif = {
     pronouns: "He" | "Him",
     education: ["vocational school"],
     society: ["Scout"],
-    code: ["PHP", "Python","HTML", "CSS","MySQL"],
-    askMeAbout: ["Cloud", "Networking", "Tech", "Anime"],
+    code: ["HTML", "CSS","MySQL"],
+    askMeAbout: ["Tech", "Anime"],
     languages: {
       native: ["Javanese"],
       primary: ["Indonesian"],
@@ -66,7 +66,7 @@ const afif = {
             css: {"Bootstrap", "Materialize"}
         },
         devOps: ["AWS", "Docker"],
-        databases: ["DynamoDB", "MySQL"],
+        databases: ["MySQL"],
         misc: ["opencv", "numpy", "tensorflow"],
         linuxOsFav: ["DebianFamily"]
     },
