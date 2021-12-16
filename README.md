@@ -47,7 +47,7 @@ Hi, I'm Afif, an ordinary vocational student with interested in programming and 
        <div align="center">A little more about me...</div>
       
 ```javascript
-const afif = {
+const me = {
     pronouns: "He" | "Him",
     education: ["vocational school"],
     society: ["Scout"],
