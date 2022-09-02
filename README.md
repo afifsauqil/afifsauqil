@@ -51,7 +51,6 @@ const me = {
     pronouns: "He" | "Him",
     education: ["vocational school"],
     society: ["Scout"],
-    code: ["HTML", "CSS","MySQL"],
     askMeAbout: ["Tech", "Anime"],
     languages: {
       native: ["Javanese"],
