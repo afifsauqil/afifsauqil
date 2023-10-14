@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **You can reach me at my social media account in below**
 
-![visitor](https://shields-io-visitor-counter.herokuapp.com/badge?page=afifsauqil.afifsauqil&label=Visitor&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=2807ba&style=for-the-badge)
+<!--![visitor](https://shields-io-visitor-counter.herokuapp.com/badge?page=afifsauqil.afifsauqil&label=Visitor&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=2807ba&style=for-the-badge)-->
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afifsauqil18@gmail.com)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afifsauqil)
 [![](https://img.shields.io/badge/Facebook-4287f5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/afif.sauqil.18)
