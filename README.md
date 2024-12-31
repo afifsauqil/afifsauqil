@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!--![visitor](https://shields-io-visitor-counter.herokuapp.com/badge?page=afifsauqil.afifsauqil&label=Visitor&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=2807ba&style=for-the-badge)-->
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afifsauqil18@gmail.com)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afifsauqil)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afif.sauqil)
 [![](https://img.shields.io/badge/Facebook-4287f5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/afif.sauqil.18)
 [![](https://img.shields.io/badge/Telegram-00979D?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/afifsauqil)
 [![](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afif-sauqil-arifin-b72878209/)
@@ -49,8 +49,8 @@ Hi, I'm Afif, an ordinary vocational student with interested in programming and 
 ```javascript
 const me = {
     pronouns: "He" | "Him",
-    education: ["vocational school"],
-    society: ["Scout"],
+    statusEducation: ["graduation of vocational school"],
+    work: ["freelancer IT Infra/DevOps"],
     askMeAbout: ["Tech", "Anime"],
     languages: {
       native: ["Javanese"],
@@ -62,10 +62,10 @@ const me = {
             php: ["CodeIgniter", "Laravel"]
         },
         frontEnd: {
-            css: {"Bootstrap", "Materialize"}
+            css: {"Bootstrap", "Materialize", "Tailwind"}
         },
         devOps: ["AWS", "Docker"],
-        databases: ["MySQL"],
+        databases: ["MySQL", "MariaDB"],
         misc: ["opencv", "numpy", "tensorflow"],
         linuxOsFav: ["DebianFamily"]
     },
